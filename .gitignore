@@ -1,0 +1,12 @@
+*.DS_Store
+.idea
+.settings
+idea/*
+doc/_build
+**/__pycache__/
+build
+dist
+openshot_qt.egg-info
+
+protobuf_data/
+openshot_qt/
